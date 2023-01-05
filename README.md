@@ -168,7 +168,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/Rizeli?tab=repositories
+[repo]: https://github.com/RizeliEdition?tab=repositories
 
 <hr />
 
