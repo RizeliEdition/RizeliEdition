@@ -16,7 +16,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 🌱 I’m currently learning HTML & CSS.<br/>
 • 💬 Ask me about <b>Discord Bots</b>, I am happy to help.<br/>
-• 📫 You can reach me via <a href="https://rizeli.dev/discord"><b>Discord</b>/>
+• 📫 You can reach me via <a href="https://rizeli.dev/discord"><b>Discord</b>
 </span>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/RizeliDev) -->
