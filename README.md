@@ -21,7 +21,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/RizeliDev) -->
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/852624608505888769?theme=dark&bg=272727)](https://discord.com/users/852624608505888769)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/689142154135732251?theme=dark&bg=272727)](https://discord.com/users/852624608505888769)
 
 ## 🏆 Trophies
 [![](https://github-profile-trophy.vercel.app/?username=RizeliEdition&theme=juicyfresh&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB,C,CC,CCC)][repo]
